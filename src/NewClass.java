@@ -10,4 +10,3 @@
 public class NewClass {
     
 }
-aaa
