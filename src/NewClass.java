@@ -8,5 +8,5 @@
  * @author User
  */
 public class NewClass {
-    
+    System.out.PrintIn("Holaaa");
 }
